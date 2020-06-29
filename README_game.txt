@@ -175,22 +175,3 @@ given code:
 	
 	enemy1XPosition -= 0.65
 		move enemy horizontally, originally set speed to 0.15 which was too easy and thus amended
-	
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
